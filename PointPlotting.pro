@@ -15,10 +15,10 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     nNet.cpp \
-    nnetwork.cpp
+    
 
 HEADERS  += mainwindow.h \
     nNet.h \
-    nnetwork.h
+    
 
 FORMS    += mainwindow.ui
